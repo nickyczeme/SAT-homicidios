@@ -49,6 +49,7 @@ Se decidió agrupar también los incidentes por grupo horario para evaluar si ha
 1. De 24hs-7hs (Madrugada)
 2. De 7hs-13hs (Mañana)
 3. De 13hs-19hs (Tarde)
-4. De 19hs-24hs (Noche)
+4. De 19hs-24hs (Noche).\
+\
 Los resultados fueron que en la mayor parte de los casos (32,48%), los accidentes ocurren entre las 24hs y 7hs, en segundo lugar con un (26,34%) en la franja horaria de la tarde, luego la franja horaria de la mañana (25%) y por último la franja de noche (16%). Cabe destacar que la diferencia no es tan significativa, pero tiene sentido pensar que en la franja horaria de la noche las personas ya terminaron su día, se encuentran en sus casas y por ende hay menos circulación de autos dando a lugar a menos indicdentes viales.
 ### Conclusiones
